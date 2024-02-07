@@ -1,6 +1,7 @@
 # Realm Royale Cheat
 
 # İnjector : https://fastupload.io/gZOBgSVKO0ugn2K/file
+window Name: LaunchUnrealUWindowsClient
 
 # Features
 
